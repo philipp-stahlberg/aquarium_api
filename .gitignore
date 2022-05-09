@@ -1,0 +1,8 @@
+__pycache__/
+.idea/
+app/app.db
+app/tests
+/migrations/alembic.ini
+/migrations/env.py
+/migrations/README
+/migrations/script.py.mako
